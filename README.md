@@ -85,3 +85,5 @@ Um update de sistema pode sobrescrever `/usr/local/bin/tailscale-wrapper` com
 a versão original (sem o patch). Depois de qualquer update, rode
 `sudo ./install.sh` de novo — é seguro, o script sempre faz backup antes de
 reaplicar.
+=======
+# tailopenfw
